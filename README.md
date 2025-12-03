@@ -1,4 +1,6 @@
-RETAIL SALES PREDICTION : Predicting sales of a major store chain Rossmann
+RETAIL SALES PREDICTION : Predicting sales of a major store chain Rossmann--
+
+Using ML algorithms+Time series forecasting
 
 
 Problem Description
